@@ -1,3 +1,0 @@
-<p>
-  @everyone @here
-<p/>
